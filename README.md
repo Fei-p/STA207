@@ -21,11 +21,12 @@ Helps educators identify effective instructional practices and classroom environ
 ---------------------------------------------------------------------------------------------------------
 
 Dataset Information :
-Dataset Title : Tennessee's Student Teacher Achievement Ratio (STAR) project
-Source: https://dataverse.harvard.edu/dataverse/star
-Data used from the set : STAR_K-3_Schools.sav
-Dataser guide : starUsersGuide.pdf
-Dataset size: 11601 rows x 379 variables
+- Dataset Title : Tennessee's Student Teacher Achievement Ratio (STAR) project
+- Source: https://dataverse.harvard.edu/dataverse/star
+- Data used from the set : STAR_K-3_Schools.sav
+- Dataser guide : starUsersGuide.pdf
+- Dataset size: 11601 rows x 379 variables
+
 Variable of interest:
 - g1tmathss : scaled math score for grade 1 students
 - g1classtype : class type assigned (1 = Small, 2 = Regular, 3 = Regular + Aide)
