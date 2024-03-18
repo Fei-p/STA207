@@ -12,6 +12,7 @@ This investigation addressed two primary questions regarding the influence of va
 
 Why the project is useful:
 Studying whether differences exist in math scores among first-grade students across different class types and determining which class type correlates with the highest math scores is valuable for several reasons:
+
 1). Informed Decision-Making: 
 Provides insights for educators, policymakers, and administrators to make informed decisions about resource allocation, curriculum development, and instructional strategies.
 2). Improving Educational Practices: 
@@ -46,6 +47,7 @@ Format: R markdown
 
 Getting Started:
 To get started with the analysis
+
 1). Install R and RStudio:If you haven't already, download and install R from CRAN and RStudio. RStudio provides an integrated development environment (IDE) for working with R, making it easier to write and execute code. (Find how to here: https://rstudio-education.github.io/hopr/starting.html)
 Once installed, open RStudio
 2). Install Required Packages: In RStudio, open the R script or R Markdown document where the analysis will be conducted. Install any required R packages by running the following command: install.packages("package_name")
