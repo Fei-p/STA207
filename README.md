@@ -15,8 +15,10 @@ Studying whether differences exist in math scores among first-grade students acr
 
 1). Informed Decision-Making: 
 Provides insights for educators, policymakers, and administrators to make informed decisions about resource allocation, curriculum development, and instructional strategies.
+
 2). Improving Educational Practices: 
 Helps educators identify effective instructional practices and classroom environments that promote academic achievement.
+
 3). Policy Development: Guides the development of educational policies aimed at improving student achievement and supporting academic success for all students.
 
 ---------------------------------------------------------------------------------------------------------
@@ -50,6 +52,7 @@ To get started with the analysis
 
 1). Install R and RStudio:If you haven't already, download and install R from CRAN and RStudio. RStudio provides an integrated development environment (IDE) for working with R, making it easier to write and execute code. (Find how to here: https://rstudio-education.github.io/hopr/starting.html)
 Once installed, open RStudio
+
 2). Install Required Packages: In RStudio, open the R script or R Markdown document where the analysis will be conducted. Install any required R packages by running the following command: install.packages("package_name")
 The following packages are used in this analysis:
 - Data Manipulation and Analysis: dplyr, tidyr, haven
@@ -57,9 +60,11 @@ The following packages are used in this analysis:
 - Statistical Modeling and Analysis: AER, car
 - Numerical Computation: pracma
 - Report Generation and Output:knitr, DT
+
 3). Load the Data: Load the Project STAR data into your R environment. For .sav file, can use the following command:
     read_sav("dataverse_files/STAR_Students.sav")
     For more information on how to import different data type: https://www.datacamp.com/tutorial/r-data-import-tutorial
+
 4). Explore the Data: Once the data is loaded, take some time to explore its structure, variables, and summary statistics.
     Some functions used for exploration : summary(), table()
 
