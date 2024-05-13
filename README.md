@@ -1,4 +1,4 @@
-# STA207
+# STAR Project Analysis : The Effect of Class Sizing on First Grade Students Math Performance
 STAR Project Analysis
 
 Project Title: The Effect of Class Sizing on First Grade Students Math Performance
